@@ -5,3 +5,4 @@ import tensorflow
 ## 깃허브 사이트에 올리기
 ## add하고 push하여 깃허브에 올리기!!
 print("시험이 얼마 안남았다.")
+print("시험전 연습하기..복습하는 중")
